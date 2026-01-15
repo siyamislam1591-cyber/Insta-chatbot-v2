@@ -1,7 +1,1 @@
-csrftoken=iZgTK5GOvCsfdQeYqM8kP7;
-datr=IKtoaWUgeODTNLHyW0T0cuu2;
-ig_did=99B71D9A-4310-4043-983E-4CBED4E88EF2;
-mid=aWirIQABAAHEgAa8VrVyFcL9ChdX;
-ds_user_id=78389857160;
-sessionid=78389857160%3A3ygiqHxQ7raes3%3A14%3AAYgsx9SzUMqlBUY3refLkO2cS7MdsDJX7DAlEYQTww; 
-rur="EAG\05478389857160\0541800003545:01fe5c79c8ae0707601badf575ee2fbee50af663c03e8118df0ad8ee608a1361bc35e18d"
+csrftoken=iZgTK5GOvCsfdQeYqM8kP7;Domain=instagram.com;Path=/;Expires=Fri, 19 Feb 2027 09:15:00 GMT;Secure
