@@ -1,4 +1,4 @@
-🚀 SIYUUU IG BOT — ELITE EDITION
+#🚀 SIYUUU IG BOT — ELITE EDITION
 Copy code
 
 ███████╗██╗██╗   ██╗██╗   ██╗██╗   ██╗
@@ -14,7 +14,7 @@ Copy code
 ██╔══██╗██║   ██║   ██║   
 ██████╔╝╚██████╔╝   ██║   
 ╚═════╝  ╚═════╝    ╚═╝
-⚡ A next-generation Instagram automation engine
+#⚡ A next-generation Instagram automation engine
 Built for power users. Engineered for stability. Designed to dominate.
 👑 Project Identity
 🤖 Bot Name: Siyuuu IG Bot
@@ -124,7 +124,7 @@ export default {
 };
 ⚠️ Author credit is mandatory. No debate.
 🧱 Project Structure
-Copy code
+#Copy code
 
 ├── index.js
 ├── config.js
@@ -134,7 +134,7 @@ Copy code
 ├── utils/
 ├── logs/
 └── data/
-Clean. Modular. Scalable.
+#Clean. Modular. Scalable.
 🛑 Disclaimer
 This project is educational only.
 Instagram automation violates ToS.
@@ -145,4 +145,4 @@ This isn’t a toy bot.
 This is a weapon-grade automation framework.
 If you don’t respect the rules — don’t use it.
 If you do — welcome to the elite.
-🖤 Made with obsession by siyuuu
+#🖤 Made with obsession by siyuuu
